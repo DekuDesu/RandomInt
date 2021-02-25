@@ -1,5 +1,5 @@
 # RandomInt
-## An out of the box Random Integer Generator
+### An out of the box Random Integer Generator
 
 ## Features
 - Simple usage
